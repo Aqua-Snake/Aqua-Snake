@@ -43,11 +43,10 @@
 ##
 
 
-    <p align="center"> <b>GitHub Awards</b></p><br/>
+    <p align="center"> <b>GitHub Awards</b><br/>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Aqua-Snake)
-
-</details>
+</p>
 
 ##
 
@@ -58,7 +57,7 @@
 
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=Aqua-Snake&repo=CBot)](https://github.com/Aqua-Snake/CBot)
 
-</details>
+</p>
 
 ##
 
