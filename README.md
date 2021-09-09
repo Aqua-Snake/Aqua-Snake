@@ -40,13 +40,17 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aqua-Snake&theme=nightowl" alt="Aqua-Snake" /></p>
 </details>
 
-##GitHub Awards
+##
+
+###GitHub Awards
 <br/>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Aqua-Snake)
 
 
-##GitHub Activity (Public Data)
+##
+
+###GitHub Activity (Public Data)
 <br/>
 
 ![Metrics](https://metrics.lecoq.io/Aqua-Snake?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
@@ -55,7 +59,9 @@
 
 
 
-##About Me 
+##
+
+###About Me 
 
 Hi, my name is Aqua-Snake 
 
