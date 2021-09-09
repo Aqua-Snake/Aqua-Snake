@@ -1,5 +1,5 @@
-<h2 align="center">Hi 🥰 I'm <br>Aqua-Snake</h1>
-<h4 align="center">I am a simple developer. Not more..</h3>
+<h2 align="center">Hi, I'm <br>Aqua-Snake</h1>
+<h4 align="center">I am a simple developer.</h3>
 <p align="center">
   I am the owner Of Cyber Bot
 </p>
