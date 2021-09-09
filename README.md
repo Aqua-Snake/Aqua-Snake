@@ -37,10 +37,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aqua-Snake&show_icons=true&layout=compact&theme=nightowl" alt="Aqua-Snake" /></p>
 
-![Aqua-Snake](https://github.com/Aqua-Snake/Statics/blob/master/generated/languages.svg)
-
-![Aqua-Snake](https://github.com/Aqua-Snake/Statics/blob/master/generated/overview.svg)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aqua-Snake&theme=nightowl" alt="Aqua-Snake" /></p>
 </details>
 
