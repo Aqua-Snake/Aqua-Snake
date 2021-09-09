@@ -40,29 +40,23 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aqua-Snake&theme=nightowl" alt="Aqua-Snake" /></p>
 </details>
 
-##
-
-
-    <p align="center"> <b>GitHub Awards</b><br/>
+##GitHub Awards
+<br/>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Aqua-Snake)
-</p>
-
-##
 
 
-    <p> <b>GitHub Activity (Public Data)</b></p><br/>
+##GitHub Activity (Public Data)
+<br/>
 
 ![Metrics](https://metrics.lecoq.io/Aqua-Snake?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
 
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=Aqua-Snake&repo=CBot)](https://github.com/Aqua-Snake/CBot)
 
-</p>
-
-##
 
 
-    <summary><b>About Me ☄</b></summary><br/>
+##About Me 
+
 Hi, my name is Aqua-Snake 
 
 Still Learning about things. 
