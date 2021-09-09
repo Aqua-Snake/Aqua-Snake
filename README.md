@@ -42,7 +42,7 @@
 
 ##
 
-<details>
+
     <p align="center"> <b>GitHub Awards</b></p><br/>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Aqua-Snake)
@@ -51,7 +51,7 @@
 
 ##
 
-<details>
+
     <p> <b>GitHub Activity (Public Data)</b></p><br/>
 
 ![Metrics](https://metrics.lecoq.io/Aqua-Snake?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
@@ -62,7 +62,7 @@
 
 ##
 
-<details>
+
     <summary><b>About Me ☄</b></summary><br/>
 Hi, my name is Aqua-Snake 
 
