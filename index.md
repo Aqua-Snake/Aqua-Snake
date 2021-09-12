@@ -2,11 +2,6 @@
 <br>
 <h2>Welcome to My Page </h2>
 
-
-![Work On](https://i.ibb.co/jf9Tkq6/logo.jpg)
-</a>
-
-
 ### About me 
 <br>
 - I am a simple developer.
@@ -15,7 +10,11 @@
 - Never give up.
 - Never fall in troubles.
 
- <br>
+### Projects 
+![Work On](https://i.ibb.co/jf9Tkq6/logo.jpg)
+
+
+<br>
 ### Support or Contact
 [GitHub](https://github.com/Aqua-Snake/)
 [Telegram](https://t.me/aqua_snake)
