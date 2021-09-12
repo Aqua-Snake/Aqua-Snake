@@ -1,18 +1,24 @@
-# **Aqua-Snake**
+<p align ="center">
+<h1><b>Aqua-Snake</b></h1>
 <br>
-## Welcome to My Page 
+<h2>Welcome to My Page </h2>
 <br>
-### About me 
-<br>
-> I am a simple developer.
-> Not a expert, but stil learn about things.
-> I do anything what i can.
-> Never give up.
-> Never fall in troubles
-
 
 ![Work On](https://i.ibb.co/jf9Tkq6/logo.jpg)
+</a>
 
+
+### About me 
+<br>
+<ul>
+  <li>I am a simple developer.</li>
+  <li>Not a expert, but stil learn about things.</li>
+  <li> I do anything what i can.</li>
+  <li> Never give up.</li>
+  <li>Never fall in troubles</li>
+ </ul>
+ 
+ <br>
 ```markdown
 Syntax highlighted code block
 
