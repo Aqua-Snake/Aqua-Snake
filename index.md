@@ -1,12 +1,17 @@
-## Welcome to GitHub Pages
+# **Aqua-Snake**
+<br>
+## Welcome to My Page 
+<br>
+### About me 
+<br>
+> I am a simple developer.
+> Not a expert, but stil learn about things.
+> I do anything what i can.
+> Never give up.
+> Never fall in troubles
 
-You can use the [editor on GitHub](https://github.com/Aqua-Snake/Aqua-Snake/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Work On](https://i.ibb.co/jf9Tkq6/logo.jpg)
 
 ```markdown
 Syntax highlighted code block
@@ -35,3 +40,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+[editor on GitHub](https://github.com/Aqua-Snake/Aqua-Snake/edit/gh-pages/index.md)
