@@ -1,7 +1,6 @@
+![ME](https://i.ibb.co/nmNMqr6/aqlogo.png)
 <div style="text-align:center">
 <h1>Aqua-Snake</h1>
-![ME](https://i.ibb.co/nmNMqr6/aqlogo.png)
-  <br>
 </div>
 <br>
 <h2>Welcome to My Page </h2>
