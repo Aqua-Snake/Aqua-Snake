@@ -1,4 +1,8 @@
-![ME](https://i.ibb.co/nmNMqr6/aqlogo.png) <h1>Aqua-Snake</h1>
+<div style="text-align:center"><h1>Aqua-Snake</h1></div>
+<p align="center">
+  <img src="https://i.ibb.co/nmNMqr6/aqlogo.png" />
+</p>
+
 
 <br>
 <h2>Welcome to My Page </h2>
