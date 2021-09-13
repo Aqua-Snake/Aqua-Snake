@@ -1,7 +1,10 @@
+<center>
 <h1>Aqua-Snake</h1>
+![ME](https://i.ibb.co/nmNMqr6/aqlogo.png)
+</center>
 <br>
 <h2>Welcome to My Page </h2>
-![ME](https://i.ibb.co/nmNMqr6/aqlogo.png)
+
 
 ### About me 
 <br>
