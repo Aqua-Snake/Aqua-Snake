@@ -17,7 +17,7 @@
 - Never fall in troubles.
 
 ### Projects 
-![Work On]([img]https://i.ibb.co/h26VWqL/CyberBot.jpg[/img])
+![Work On](https://i.ibb.co/h26VWqL/CyberBot.jpg)
 
 
 <br>
