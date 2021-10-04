@@ -21,8 +21,9 @@
   </a>
 </p>
 
-<div align="center">
 ##
+
+<div align="center">
 
 ![Aqua-Snake Logo](https://media.giphy.com/media/oQKWEqvuxfHPIo77NN/giphy.gif)
  </div>
