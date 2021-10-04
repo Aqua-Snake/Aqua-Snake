@@ -3,9 +3,14 @@
   <img src="https://i.ibb.co/nmNMqr6/aqlogo.png" />
 </p>
 
+##
 
 <br>
 <h2>Welcome to My Page </h2>
+
+![Aqua-Snake Logo](https://media.giphy.com/media/oQKWEqvuxfHPIo77NN/giphy.gif)
+
+##
 
 <br>
 ### About me 
