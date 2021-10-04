@@ -5,15 +5,18 @@
 
 ##
 
-<br>
+<div align="center">
+
 <h2>Welcome to My Page </h2>
 
 ![Aqua-Snake Logo](https://media.giphy.com/media/oQKWEqvuxfHPIo77NN/giphy.gif)
 
 ##
 
-<br>
+
+
 ### About me 
+
 <br>
 - I am a simple developer.
 - Not a expert, but stil learn about things.
