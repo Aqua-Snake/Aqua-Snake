@@ -21,10 +21,12 @@
   </a>
 </p>
 
-##
 <div align="center">
+##
+
 ![Aqua-Snake Logo](https://media.giphy.com/media/oQKWEqvuxfHPIo77NN/giphy.gif)
  </div>
+ 
 ##
 
 - 🔭 I’m currently working on [CBot](https://github.com/Aqua-Snake/CBot)
