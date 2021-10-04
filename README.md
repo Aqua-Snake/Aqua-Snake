@@ -21,7 +21,8 @@
   </a>
 </p>
 
-
+##
+![Aqua-Snake Logo](https://media.giphy.com/media/oQKWEqvuxfHPIo77NN/giphy.gif)
 ##
 
 - 🔭 I’m currently working on [CBot](https://github.com/Aqua-Snake/CBot)
