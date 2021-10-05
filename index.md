@@ -7,7 +7,7 @@
 
 <p align="center">
 
-### Welcome to My Page 
+<h2>Welcome to My Page</h2>
 
 
 ![Aqua-Snake Logo](https://media.giphy.com/media/oQKWEqvuxfHPIo77NN/giphy.gif)
@@ -16,7 +16,7 @@
 <br>
 
 
-### About me 
+<h2>About me</h2>
 
 <br>
 - I am a simple developer.
@@ -25,11 +25,12 @@
 - Never give up.
 - Never fall in troubles.
 
-### Projects 
+<h2>Projects</h2>
+
 ![Work On](https://i.ibb.co/h26VWqL/CyberBot.jpg)
 
 
 <br>
-### Support or Contact
-[GitHub](https://github.com/Aqua-Snake/)
+<h2>Support or Contact</h2>
+[GitHub](https://github.com/Aqua-Snake/) 
 [Telegram](https://t.me/aqua_snake)
