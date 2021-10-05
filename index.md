@@ -7,7 +7,7 @@
 
 <p align="center">
 
-<h2>Welcome to My Page </h2>
+### Welcome to My Page 
 
 
 ![Aqua-Snake Logo](https://media.giphy.com/media/oQKWEqvuxfHPIo77NN/giphy.gif)
