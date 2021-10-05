@@ -1,4 +1,4 @@
-<div style="text-align:center"><h1>Aqua-Snake</h1></div>
+<div style="text-align:center"><h1><link rel="Aqua-Snake" href="https://github.com/Aqua-Snake/"></h1></div>
 <p align="center">
   <img src="https://i.ibb.co/nmNMqr6/aqlogo.png" />
 </p>
@@ -10,8 +10,7 @@
 <h2>Welcome to My Page</h2>
 
 
-![Aqua-Snake Logo](https://media.giphy.com/media/oQKWEqvuxfHPIo77NN/giphy.gif)
-
+<img src="https://media.giphy.com/media/oQKWEqvuxfHPIo77NN/giphy.gif" />
 
 <br>
 
@@ -19,15 +18,15 @@
 <h2>About me</h2>
 
 <br>
-- I am a simple developer.
-- Not a expert, but stil learn about things.
-- I do anything what i can.
-- Never give up.
-- Never fall in troubles.
+- I am a simple developer. <br>
+- Not a expert, but stil learn about things. <br>
+- I do anything what i can. <br>
+- Never give up. <br>
+- Never fall in troubles. <br>
 
 <h2>Projects</h2>
 
-![Work On](https://i.ibb.co/h26VWqL/CyberBot.jpg)
+<img src="https://i.ibb.co/h26VWqL/CyberBot.jpg" />
 
 
 <br>
