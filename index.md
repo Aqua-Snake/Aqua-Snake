@@ -32,4 +32,4 @@
 <br>
 <h2>Support or Contact</h2>
 [GitHub](https://github.com/Aqua-Snake/) 
-[Telegram](https://t.me/aqua_snake)
+[Telegram](https://t.me/Aqua_Snake)
