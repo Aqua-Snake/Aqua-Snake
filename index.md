@@ -1,4 +1,4 @@
-<div style="text-align:center"><h1><link rel="Aqua-Snake" href="https://github.com/Aqua-Snake/"></h1></div>
+<div style="text-align:center"><h1>Aqua-Snake</h1></div>
 <p align="center">
   <img src="https://i.ibb.co/nmNMqr6/aqlogo.png" />
 </p>
@@ -31,5 +31,6 @@
 
 <br>
 <h2>Support or Contact</h2>
-[GitHub](https://github.com/Aqua-Snake/) 
-[Telegram](https://t.me/Aqua_Snake)
+<link rel="Github" href="https://github.com/Aqua-Snake/">
+<link rel="Telegram" href="https://t.me/Aqua_Snake">
+
