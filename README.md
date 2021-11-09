@@ -35,10 +35,6 @@
 
 ![Aqua-Snake Logo](https://media.giphy.com/media/oQKWEqvuxfHPIo77NN/giphy.gif)
  </div>
- 
-##
-
-- 🔭 I’m currently working on [CBot](https://github.com/Aqua-Snake/CBot)
 
 
 ##
@@ -78,8 +74,10 @@
 
 ## About Me 
 
-Hi, my name is Aqua-Snake 
+- Hi, my name is Aqua-Snake 
+- Still Learning about things. 
+- Beginner
+- 🔭 I’m currently working on [CBot](https://github.com/Aqua-Snake/CBot)
 
-Still Learning about things. 
 
 </details>
