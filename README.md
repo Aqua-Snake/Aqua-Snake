@@ -1,5 +1,4 @@
-<h1 align="center">Hi  &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48px"></a>, I'm Aqua Snake</h1></a>
-<!---------- Typing SVG ---------->
+##
 <p align="center">
     <a href="https://avatars.githubusercontent.com/u/85664936?v=4">
         <img
@@ -11,17 +10,21 @@
 
 ##
 
+<h1 align="center">Hi  &nbsp;<img src="https://raw.githubusercontent.com/Aqua-Snake/Aqua-Snake/main/Hi.gif" width="48px"></a>, I'm Aqua Snake</h1></a>
+
+##
+
 <p align="center">
   <a href="https://github.com/Aqua-Snake">
-    <img src="https://komarev.com/ghpvc/?username=Aqua-Snake&label=Profile%20views&color=blueviolet&label=Profile+Views&style=flat-square">
+    <img src="https://komarev.com/ghpvc/?username=Aqua-Snake&label=Profile%20views&color=blueviolet&label=Profile+Views&style=button">
 
   </a>
   <a href="https://github.com/Aqua-Snake?tab=stars">
-    <img src="https://img.shields.io/github/stars/Aqua-Snake?color=blueviolet&label=Stargazers&style=flat-square">
+    <img src="https://img.shields.io/github/stars/Aqua-Snake?color=blueviolet&label=Stargazers&style=button">
 
   </a>
   <a href="https://github.com/Aqua-Snake?tab=followers">
-    <img src="https://img.shields.io/github/followers/Aqua-Snake?color=blueviolet&label=Followers&style=flat-square">
+    <img src="https://img.shields.io/github/followers/Aqua-Snake?color=blueviolet&label=Followers&style=button">
 
   </a>
 </p>
