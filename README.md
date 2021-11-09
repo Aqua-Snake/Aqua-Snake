@@ -1,22 +1,27 @@
-<h2 align="center">Hi, I'm <br>Aqua-Snake</h1>
-<h4 align="center">I am a simple developer.</h3>
+<h1 align="center">Hi  &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48px"></a>, I'm Aqua Snake</h1></a>
+<!---------- Typing SVG ---------->
 <p align="center">
-  I am the owner Of Cyber Bot
+    <a href="https://avatars.githubusercontent.com/u/85664936?v=4">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=31&width=1000&lines=Welcome+To+My+Profile..."
+            alt="Typing SVG"
+        />
+    </a>
 </p>
 
 ##
 
 <p align="center">
   <a href="https://github.com/Aqua-Snake">
-    <img src="https://komarev.com/ghpvc/?username=Aqua-Snake&label=Profile%20views&color=green&label=Profile+Views&style=plastic">
+    <img src="https://komarev.com/ghpvc/?username=Aqua-Snake&label=Profile%20views&color=blueviolet&label=Profile+Views&style=flat-square">
 
   </a>
   <a href="https://github.com/Aqua-Snake?tab=stars">
-    <img src="https://img.shields.io/github/stars/Aqua-Snake?color=green&label=Stargazers&style=plastic">
+    <img src="https://img.shields.io/github/stars/Aqua-Snake?color=blueviolet&label=Stargazers&style=flat-square">
 
   </a>
   <a href="https://github.com/Aqua-Snake?tab=followers">
-    <img src="https://img.shields.io/github/followers/Aqua-Snake?color=green&label=Followers&style=plastic">
+    <img src="https://img.shields.io/github/followers/Aqua-Snake?color=blueviolet&label=Followers&style=flat-square">
 
   </a>
 </p>
@@ -35,24 +40,25 @@
 
 ##
 
-### Contact Me [Telegram!](https://t.me/aqua_snake)
-<p align="left">
-<a href="https://t.me/Aqua-Snakeblog" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-png/telegram-chat-message-mobile-send-file-smartphone-talk-16.png" alt="Telegram  " height="54" width="54" /></a>
 
-</p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aqua-Snake&theme=algolia&show_icons=true" alt="Aqua-Snake" /></p>
+</a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aqua-Snake&show_icons=true&layout=compact&theme=nightowl" alt="Aqua-Snake" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aqua-Snake&theme=nightowl" alt="Aqua-Snake" /></p>
-</details>
+<br><p align="center">&nbsp;<img align="center" href="https://github.com/Aqua-Snake" src="https://github-readme-stats.vercel.app/api?username=Aqua-Snake&theme=algolia&show_icons=true" alt="Aqua-Snake"/></p></a>
+
+
+<br><p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqua-Snake&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Most Used Languages By Aqua Snake"/></p></a><br> 
 
 ##
 
 ### GitHub Awards
 <br/>
+<p align="center">
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Aqua-Snake)
 
+  </p>
 
 ##
  
