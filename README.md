@@ -10,7 +10,7 @@
 
 ## 
 
-<img src="https://raw.githubusercontent.com/Aqua-Snake/Aqua-Snake/main/github-logo-png.png" alt="github logo"></a>
+<img src="https://raw.githubusercontent.com/Aqua-Snake/Aqua-Snake/main/cyberbot.png" alt="github logo"></a>
 
 
 <h1 align="center">Hi  &nbsp;<img src="https://raw.githubusercontent.com/Aqua-Snake/Aqua-Snake/main/Hi.gif" width="48px"></a>, I'm Aqua Snake</h1></a>
