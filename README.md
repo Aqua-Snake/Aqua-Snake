@@ -11,7 +11,7 @@
 ## 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Aqua-Snake/Aqua-Snake/main/CyberBot.png" alt="LOGO"></a>
+<img src="https://raw.githubusercontent.com/Aqua-Snake/Aqua-Snake/main/aqualogo.png" alt="LOGO"></a>
 
 
 <h1 align="center">Hi  &nbsp;<img src="https://raw.githubusercontent.com/Aqua-Snake/Aqua-Snake/main/Hi.gif" width="48px"></a>, I'm Aqua Snake</h1></a>
