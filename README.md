@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://avatars.githubusercontent.com/u/85664936?v=4">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=31&width=1000&lines=Welcome+To+My+Profile..."
+            src="https://readme-typing-svg.herokuapp.com?size=31&width=1000&lines=Welcome+To+Aqua+Snake's+Profile..."
             alt="Typing SVG"
         />
     </a>
